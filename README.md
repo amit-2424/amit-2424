@@ -40,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" width="48%" height="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" width="48%" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-2424&show_icons=true&theme=react" width="48%" height="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-2424&theme=react" width="48%" height="100%" />
 </p>
 
 ---
