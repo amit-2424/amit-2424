@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on **React frontend projects**
 - 🧪 Right now running an **Underground Program for Dhaka International University**
+- 🎓 Department of **Computer Science & Engineering (CSE)**
 - 🌱 I’m learning **advanced Node.js & DevOps tools**
 - 👯 I’m looking to collaborate on **open source MERN stack projects**
 - 💬 Ask me about **JavaScript, React, Git, TailwindCSS, MongoDB**
