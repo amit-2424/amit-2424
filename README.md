@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Amit Mondol</h1>
+<h1 align="center">Hi 👋, I'm Amit Mondol</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 ---
@@ -9,8 +9,8 @@
 - 🌱 I’m learning **advanced Node.js & DevOps tools**
 - 👯 I’m looking to collaborate on **open source MERN stack projects**
 - 💬 Ask me about **JavaScript, React, Git, TailwindCSS, MongoDB**
-- 📫 Reach me at: **your.email@example.com**
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📫 Reach me at: **amitmondoloishil@gmail.com**
+- 🌐 Portfolio: [amitmondol.com](https://yourportfolio.com)
 
 ---
 
@@ -40,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" width="48%" height="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" width="48%" height="100%" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="amitmondoloishik@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[LinkedIn](https://www.linkedin.com/in/amit-mondol/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
