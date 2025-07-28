@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **open source MERN stack projects**
 - 💬 Ask me about **JavaScript, React, Git, TailwindCSS, MongoDB**
 - 📫 Reach me at: **amitmondoloishil@gmail.com**
-- 🌐 Portfolio: [amit](https://amitmondol.netlify.app)
+- 🌐 Portfolio: [amitmondol.com](https://amitmondol.netlify.app)
 
 ---
 
